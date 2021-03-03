@@ -2,7 +2,7 @@
 $data = json_decode(file_get_contents("https://jsonplaceholder.typicode.com/posts"));
 ?>
 <!DOCTYPE html>
-<html>
+<html>  
 
 <head>
     <meta charset='utf-8'>
